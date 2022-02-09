@@ -1,1 +1,5 @@
-# 3D-Ireland-Map
+# EN - 3D Ireland Map
+Hey! This is a topographic map of Ireland highlighted in 3d space for a more accurate view of Ireland. This topographic map is in alpha testing, therefore it will be very curved and was created based on technologies from the 1990s. But this does not negate the fact that this is Ireland and here you can fly and explore the surroundings of Ireland, it is very damp and it is not recommended to use it as a means of navigation in the mountains, or even more so in the seas of Ireland. And so - good luck in using it, the thing is cool. I advise you to evaluate this work.
+
+# RU - 3Д Карта Ирландии
+Привет! Это топографическая карта ирландии выделенная в 3д пространство для более точного рассмотрения ирландии. Данная топографическая карта находится на стадии альфа-тестирования, соответственно она будет очень кривой и была создана на основе технологий 1990-ых годов. Но это не отменяет того факта что это ирландия и тут можно полетать и исследовать окрестности ирландии, она очень сырая и её не рекомендовано использовать как средство навигации в горах или тем более в морях ирландии. А так - удачи в использовании, штука прикольная. советую оценить данную работу.
